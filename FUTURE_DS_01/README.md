@@ -34,7 +34,7 @@ This project analyzes business sales data to provide actionable insights into:
 - `executive_summary.txt` - Business insights and recommendations
 - `README.md` - Project documentation (this file)
 
-#### 4. Visualizations (Optional)
+#### 4. Visualizations
 - `visualizations/` - Interactive HTML dashboards
 
 ### 🚀 How to Run
