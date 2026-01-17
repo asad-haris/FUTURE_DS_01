@@ -74,8 +74,8 @@ Based on the analysis of 9,994 transactions:
 - **GitHub** - Version control and project hosting
 
 ### 📞 Contact & Links
-- **GitHub Repository**: https://github.com/[YourUsername]/FUTURE_DS_01
-- **LinkedIn Profile**: [Your LinkedIn URL]
+- **GitHub Repository**: https://github.com/asad-haris/FUTURE_DS_01
+- **LinkedIn Profile**: [https://www.linkedin.com/in/mdharisasad/]
 - **Future Interns**: https://www.linkedin.com/company/future-interns/
 
 ### 📌 Submission Compliance
